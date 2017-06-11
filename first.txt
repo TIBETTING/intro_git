@@ -3,3 +3,4 @@ added changes here
 git add
 git commit
 git rm
+git status
